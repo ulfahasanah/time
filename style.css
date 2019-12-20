@@ -1,0 +1,9 @@
+.time {
+    top: 40%;
+    left: 35%;
+    position: fixed;
+    color: white;
+    font-size: 120px;
+    border: 2px solid white;
+    padding: 0px 5px;
+}
