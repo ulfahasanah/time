@@ -8,7 +8,46 @@
     font-family: 'Roboto', sans-serif;
  }
 
-@media (min-width: 320px) and (max-width: 550px) { 
+ @media (min-width: 220px) and (max-width: 321px) { 
+    .time {
+        top: 40%;
+        left: 6%;
+        position: fixed;
+        color: white;
+        font-size: 60px;
+        border: 2px solid white;
+        padding: 0px 5px;
+        font-family: 'Roboto', sans-serif;
+    }
+ }
+
+@media (min-width: 320px) and (max-width: 380px) { 
+    .time {
+        top: 40%;
+        left: 8%;
+        position: fixed;
+        color: white;
+        font-size: 80px;
+        border: 2px solid white;
+        padding: 0px 5px;
+        font-family: 'Roboto', sans-serif;
+    }
+ }
+
+ @media (min-width: 381px) and (max-width: 420px) { 
+    .time {
+        top: 40%;
+        left: 10%;
+        position: fixed;
+        color: white;
+        font-size: 80px;
+        border: 2px solid white;
+        padding: 0px 5px;
+        font-family: 'Roboto', sans-serif;
+    }
+ }
+
+ @media (min-width: 421px) and (max-width: 550px) { 
     .time {
         top: 40%;
         left: 20%;
