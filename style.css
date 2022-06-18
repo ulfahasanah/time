@@ -21,7 +21,7 @@
     }
  }
 
-@media (min-width: 320px) and (max-width: 380px) { 
+@media (min-width: 320px) and (max-width: 400px) { 
     .time {
         top: 40%;
         left: 8%;
@@ -34,7 +34,7 @@
     }
  }
 
- @media (min-width: 381px) and (max-width: 420px) { 
+ @media (min-width: 401px) and (max-width: 420px) { 
     .time {
         top: 40%;
         left: 10%;
